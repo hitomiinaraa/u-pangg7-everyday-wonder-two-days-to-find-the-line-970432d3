@@ -1,3 +1,4 @@
+// Revision note: the fan sentence below stays exactly as built; only notes changed here.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
